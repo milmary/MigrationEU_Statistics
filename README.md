@@ -15,3 +15,12 @@ I will use different Eurostat datasets from:
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migrant_integration_statistics_-_education
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migrant_integration_statistics_%E2%80%93_labour_market_indicators
 https://ec.europa.eu/eurostat/web/interactive-publications/migration-2024
+
+<img width="1150" height="653" alt="image" src="https://github.com/user-attachments/assets/11efbe5d-d54a-4734-9568-05bbca5f82e7" />
+
+<img width="793" height="644" alt="image" src="https://github.com/user-attachments/assets/3bb2db36-55d3-43e1-a1a3-8c448e95e80a" />
+
+<img width="899" height="644" alt="image" src="https://github.com/user-attachments/assets/a38ce2f5-6998-4761-aa93-f016df16fc16" />
+
+
+
