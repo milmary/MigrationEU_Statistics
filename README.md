@@ -1,6 +1,6 @@
 ## Migration in EU - Statistical project
 
-I explored the dynamics of immigration and emigration in Europe, particularly focusing on migrants' education levels, residence permits, and preferred destination countries.
+I explored the dynamics of immigration and emigration in Europe, particularly focusing on migrants' education levels, residence permits, and preferred destination countries. You can find an outcome of my investigation (visualized by different grafs) in the presentation. 
 
 # Possible questions:
 
